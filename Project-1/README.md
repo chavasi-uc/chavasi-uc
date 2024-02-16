@@ -44,7 +44,7 @@ The link to access my website is: [https://chavasi-uc.github.io/Project-1/index.
 
 I've added a dedicated page named 'waph.html' to my repository, providing an introduction to the 'Web Application Programming and Hacking' course along with its associated hands-on projects. This includes summaries of Lab0, Lab1, Lab2, Hackathon 1, and Individual Project 1.
 
-The link to access waph.html is: [https://chavasi-uc.github.io/waph.html](https://chavasi-uc.github.io/waph.html).
+The link to access waph.html is: [https://chavasi-uc.github.io/Project-1/waph.html](https://chavasi-uc.github.io/Project-1/waph.html).
 
 As shown below the page is accessible.
 
