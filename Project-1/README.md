@@ -12,7 +12,7 @@
 
 ## Repository Information
 
-Respository's URL: [git@github.com:chavasi-uc/waph-chavasi-uc.git](git@github.com:chavasi-uc/waph-chavasi-uc.git)
+Respository's URL: [https://github.com/chavasi-uc/chavasi-uc.github.io/blob/main/Project-1/README.md](https://github.com/chavasi-uc/chavasi-uc.github.io/blob/main/Project-1/README.md)
 
 This is a public repository for Sivani Chava to store all code from the course. The organization of this repository is as follows.
 
