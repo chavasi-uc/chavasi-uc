@@ -271,7 +271,7 @@
       const [error, setError] = React.useState(null);
 
       React.useEffect(() => {
-        // const apiKey = 'faa4bf4f162247c9a257f5fc07d1facd';
+        const apiKey = 'faa4bf4f162247c9a257f5fc07d1facd';
 
         axios.get("https://api.exchangerate-api.com/v4/latest/USD", {
           params: { access_key: apiKey }
