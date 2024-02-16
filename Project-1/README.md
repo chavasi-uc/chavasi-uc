@@ -8,7 +8,7 @@
 
 **Short-bio**: Iam sivanichava.I have experience of an year as a data analyst. Intrested in solving sophisticated problems.Currently pursuing masters in University of Cincinnati.   
 
-![Divya Sheelam](Images/headshot.jpg){ width=150px height=150px }
+![Sivani Chava](Images/headshot.jpg){ width=150px height=150px }
 
 ## Repository Information
 
